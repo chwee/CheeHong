@@ -1,0 +1,31 @@
+[rs274ngc_execute] n100g20
+[rs274ngc_execute] n104t1m6
+[rs274ngc_execute] n106g0g90g56x9.y15.a0.s11000m3
+STRAIGHT_TRAVERSE(9.0000, 15.0000, 0.0000)
+[rs274ngc_execute] n108g43h1z5.
+STRAIGHT_TRAVERSE(9.0000, 15.0000, 5.0000)
+[rs274ngc_execute] n110z0.
+STRAIGHT_TRAVERSE(9.0000, 15.0000, 0.0000)
+[rs274ngc_execute] n112g1z-1.f15.
+[rs274ngc_execute] n114y37.509f10.
+[rs274ngc_execute] n116g2x12.222y45.288r11.
+[rs274ngc_execute] n118g1x23.414y56.48
+[rs274ngc_execute] n120g2x26.243y57.652r4.
+[rs274ngc_execute] n122g1x40.
+[rs274ngc_execute] n124x53.757
+[rs274ngc_execute] n126g2x56.586y56.48r4.
+[rs274ngc_execute] n128g1x67.778y45.288
+[rs274ngc_execute] n130g2x71.y37.509r11.
+[rs274ngc_execute] n132g1y15.
+[rs274ngc_execute] n134g2x66.579y9.211r6.
+[rs274ngc_execute] n136x13.421r101.001
+[rs274ngc_execute] n138x9.y15.r6.
+[rs274ngc_execute] n140g1z5.
+[rs274ngc_execute] n142m5
+[rs274ngc_execute] n144g91g28z0.
+STRAIGHT_TRAVERSE(9.0000, 15.0000, 5.0000)
+STRAIGHT_TRAVERSE(0.0000, 0.0000, -2.0000)
+[rs274ngc_execute] n146g28x0.y0.a0.
+STRAIGHT_TRAVERSE(0.0000, 0.0000, -2.0000)
+STRAIGHT_TRAVERSE(0.0000, 0.0000, -2.0000)
+[rs274ngc_execute] n148m30
